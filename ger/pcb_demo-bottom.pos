@@ -1,0 +1,68 @@
+### Footprint positions - created on 2025-04-03T12:30:42+0200 ###
+### Printed by KiCad version 8.0.9-8.0.9-0~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref                  Val                       Package                        PosX       PosY       Rot  Side
+BOTTOM_RULER_ORGIN201                            REFERENCE_BOTTOM            85.5511    47.5964  180.0000  bottom
+FID-201                                          Fiducial_1mm_Mask2mm         2.3611    45.5864  180.0000  bottom
+FID-202                                          Fiducial_1mm_Mask2mm        80.6411    42.5864  180.0000  bottom
+FID-203                                          Fiducial_1mm_Mask2mm        83.6411     2.4064  180.0000  bottom
+FID-204                                          Fiducial_1mm_Mask2mm         2.3611     2.4064  180.0000  bottom
+ORIGIN                 Fiducial_0.5mm_Mask1.5mm  Fiducial_0.5mm_Mask1.5mm     0.0000     0.0000  180.0000  bottom
+R201                                             R_0402_1005Metric           37.9211    40.5064  -45.0000  bottom
+R202                                             R_0402_1005Metric           36.6511    39.2364  -45.0000  bottom
+R203                                             R_0603_1608Metric           40.4611    37.9664  135.0000  bottom
+R204                                             R_0402_1005Metric           35.3811    37.9664  -45.0000  bottom
+R205                                             R_0603_1608Metric           39.1911    36.6964  135.0000  bottom
+R206                                             R_0402_1005Metric           34.1111    36.6964  -45.0000  bottom
+R207                                             R_0603_1608Metric           37.9211    35.4264  135.0000  bottom
+R208                                             R_0402_1005Metric           32.8411    35.4264  -45.0000  bottom
+R209                                             R_0603_1608Metric           36.6511    34.1564  135.0000  bottom
+R210                                             R_0402_1005Metric           31.5711    34.1564  -45.0000  bottom
+R211                                             R_0603_1608Metric           35.3811    32.8864  135.0000  bottom
+R212                                             R_0402_1005Metric           30.3011    32.8864  -45.0000  bottom
+R213                                             R_0603_1608Metric           34.1111    31.6164  135.0000  bottom
+R214                                             R_0402_1005Metric           29.0311    31.6164  -45.0000  bottom
+R215                                             R_0603_1608Metric           32.8411    30.3464  135.0000  bottom
+R216                                             R_0402_1005Metric           60.5511    29.0964  -90.0000  bottom
+R217                                             R_0402_1005Metric           58.0511    29.0964  -90.0000  bottom
+R218                                             R_0402_1005Metric           55.5511    29.0964  -90.0000  bottom
+R219                                             R_0402_1005Metric           53.0511    29.0964  -90.0000  bottom
+R220                                             R_0402_1005Metric           50.5511    29.0964  -90.0000  bottom
+R221                                             R_0402_1005Metric           48.0511    29.0964  -90.0000  bottom
+R222                                             R_0402_1005Metric           45.5511    29.0964  -90.0000  bottom
+R223                                             R_0402_1005Metric           43.0511    29.0964  -90.0000  bottom
+R224                                             R_0603_1608Metric           31.5711    29.0764  135.0000  bottom
+R225                                             R_0603_1608Metric           60.5511    22.0964  -90.0000  bottom
+R226                                             R_0603_1608Metric           58.0511    22.0964  -90.0000  bottom
+R227                                             R_0603_1608Metric           55.5511    22.0964  -90.0000  bottom
+R228                                             R_0603_1608Metric           53.0511    22.0964  -90.0000  bottom
+R229                                             R_0603_1608Metric           50.5511    22.0964  -90.0000  bottom
+R230                                             R_0603_1608Metric           48.0511    22.0964  -90.0000  bottom
+R231                                             R_0603_1608Metric           45.5511    22.0964  -90.0000  bottom
+R232                                             R_0603_1608Metric           43.0511    22.0964  -90.0000  bottom
+R233                                             R_0805_2012Metric           60.5511    14.0964  -90.0000  bottom
+R234                                             R_0805_2012Metric           57.0511    14.0964  -90.0000  bottom
+R235                                             R_0805_2012Metric           53.5511    14.0964  -90.0000  bottom
+R236                                             R_0805_2012Metric           50.0511    14.0964  -90.0000  bottom
+R237                                             R_0805_2012Metric           46.5511    14.0964  -90.0000  bottom
+R238                                             R_0805_2012Metric           43.0511    14.0964  -90.0000  bottom
+R239                                             R_0805_2012Metric           39.5511    14.0964  -90.0000  bottom
+R240                                             R_1206_3216Metric           60.5511     5.0964   90.0000  bottom
+R241                                             R_1206_3216Metric           57.0511     5.0964   90.0000  bottom
+R242                                             R_1206_3216Metric           53.5511     5.0964   90.0000  bottom
+R243                                             R_1206_3216Metric           50.0511     5.0964   90.0000  bottom
+R244                                             R_1206_3216Metric           46.5511     5.0964   90.0000  bottom
+R245                                             R_1206_3216Metric           43.0511     5.0964   90.0000  bottom
+R246                                             R_1206_3216Metric           39.5511     5.0964   90.0000  bottom
+SOT-200                                          TO-252-2                    21.0511    41.5964  -90.0000  bottom
+SOT-201                                          SOT-223                      8.5511    41.5964  180.0000  bottom
+ST201                                            TSOT-23                     78.5611    15.7414    0.0000  bottom
+ST202                                            TSOT-23                     83.0061    13.2014  -60.0000  bottom
+ST203                                            TSOT-23                     74.1161    13.2014   60.0000  bottom
+ST204                                            TSOT-23                     83.0061     8.1214  -120.0000  bottom
+ST205                                            TSOT-23                     74.1161     8.1214  120.0000  bottom
+ST206                                            TSOT-23                     78.5611     5.5814  180.0000  bottom
+TQ201                                            TQFP-32_7x7mm_P0.8mm        73.5511    28.5964  180.0000  bottom
+TQ202                                            TQFP-144_16x16mm_P0.4mm     16.6000    17.2000  180.0000  bottom
+## End
